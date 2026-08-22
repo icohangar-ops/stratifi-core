@@ -1,3 +1,7 @@
+> **Status:** Absorbed into [`consensus-hardening-protocol`](https://github.com/icohangar-ops/consensus-hardening-protocol).
+> The CHP engine from this repo now ships there — use `pip install consensus-hardening-protocol` (and for TypeScript Profile B: `npm install @cubiczan/chp`).
+> This repository is kept for history and will be archived.
+
 # Stratifi Core
 
 > Cognitive Mesh Enterprise Orchestrator — multi-agent coordination for CFO-grade
